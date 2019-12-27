@@ -4,7 +4,7 @@ Hi, in this tutorial I will go over ten basic terminal commands. These are part 
 
 If you are not interested in learning the terminal commands then skip to the next video where I actually start coding in C.
 
-* # 1: `ls`
+* # 1: `ls` - stands for List. Lists computer files
 	* 1: `ls`
 	* 2: `ls -a`
 	* 3: `ls -l`
