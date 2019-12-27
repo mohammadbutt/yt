@@ -5,10 +5,10 @@ Hi, in this tutorial I will go over ten basic terminal commands. These are part 
 If you are not interested in learning the terminal commands then skip to the next video where I actually start coding in C.
 
 * # 1: `ls` - stands for List. Lists computer files
-	* 1: `ls`
-	* 2: `ls -a`
-	* 3: `ls -l`
-	* 4: `ls -la` or `ls -al`
+	* 1: `ls` - Lists computer files of the current directory.
+	* 2: `ls -a` - Lists computer files of the current directory including hidden files and folders
+	* 3: `ls -l` - Long list format that gives additional information about files and folders. 
+	* 4: `ls -la` or `ls -al` - Long list format that gives additional information about files and folders including hidden files and folders. 
 	* 5: `ls -G`
 
 First command I will show is LS, which stands for List. It lists computer files. Now there is a lot that can be covered just on LS, but I will go over the basics, which in most cases should be enough.
