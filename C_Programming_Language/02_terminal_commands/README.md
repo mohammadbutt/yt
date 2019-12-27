@@ -4,13 +4,19 @@ Hi, in this tutorial I will go over ten basic terminal commands. These are part 
 
 If you are not interested in learning the terminal commands then skip to the next video where I actually start coding in C.
 
-*## 1:`ls` - stands for List. Lists computer files.
+* ## 1:`ls` - stands for List. Lists computer files.
 	* 1: `ls` - Lists computer files of the current directory.
-	* 2: `ls -a` - Lists computer files of the current directory including hidden files and folders
-	* 3: `ls -l` - Long list format that gives additional information about files and folders. 
+	* 2:`ls -a` - Lists computer files of the current directory including hidden files and folders
+	* 3:`ls -l` - Long list format that gives additional information about files and folders. 
 	* 4: `ls -la` or `ls -al` - Long list format that gives additional information about files and folders including hidden files and folders. 
 	* 5: `ls -G` - Colorizes files, folder, and executables in different colors.
-* ## 2: `mkdir` - stands for make directory. Creates a folder or directory.
+* ## 2:`mkdir` - stands for make directory. Creates a folder or directory.
+	* 1: `mkdir empty_folder1` - Creates a directory called empty_folder1.
+	* 2: `mkdir empty_folder2 empty_folder3 empty_folder4` - Creates directories called empty_folder2, empty_folder3 and empty_folder4.
+	* 3: `mkdir "empty folder 4"` - Creates a directory called "empty folder 4" seperated by spaces.
+
+* ## 3:`cd` - stands for change directory. Changes directory.
+	* 1:
 
 First command I will show is LS, which stands for List. It lists computer files. Now there is a lot that can be covered just on LS, but I will go over the basics, which in most cases should be enough.
 LS -a - will show you all the files and folders, including hidden files. How can you tell which files and folders are hidden? When a file or directory begins with a Period that’s how you will know those files and folders are hidden.
