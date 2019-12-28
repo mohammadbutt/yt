@@ -22,7 +22,15 @@ If you are not interested in learning the terminal commands then skip to the nex
 	* 1:`touch empty_file1` - Creates a file called empty_file1.
 	* 2:`touch "empty file 2.txt"` - Creates a file called "empty file 2.txt". Words are seperated by spaces.
 	* 3: `touch empty_file2 empty_file3 empty_file4` - Creates multiple files.
-* ### 6: `mv` - Stands for move. Moves files and folders. And also renames files and folders.
+* ### 6:`mv` - Stands for move. Moves files and folders. And also renames files and folders.
+	* 1:`mv old_file_name new_file_name` - Renames file "old_file_name" to "new_file_name".
+	* 2:`mv old_file_name "new file name"` - Renames file "old_file_name" to "new file name".
+	* 3:`mv file1 folder2` - If a directory called folder2 exists then moves file1 inside directory "folder2".
+* ### 7:`rm` - Removes files and folders.
+	* 1:`rm file1` - Removes file called file1.
+	* 2:`rm -rf folder1` - Removes a directory called folder1.
+* ### 8:`cat` - Concatenates multiples files and shows contents of files.
+	* 
 
 
 First command I will show is LS, which stands for List. It lists computer files. Now there is a lot that can be covered just on LS, but I will go over the basics, which in most cases should be enough.
