@@ -1,9 +1,5 @@
 # Basic Terminal Command
 
-Hi, in this tutorial I will go over ten basic terminal commands. These are part of my regular work flow.
-
-If you are not interested in learning the terminal commands then skip to the next video where I actually start coding in C.
-
 * ### 1:`ls` - Stands for List. Lists computer files.
 	* `ls` - Lists computer files of the current directory.
 	* `ls -a` - Lists computer files of the current directory including hidden files and folders
