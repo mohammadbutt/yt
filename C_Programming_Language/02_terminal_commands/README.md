@@ -34,4 +34,9 @@ If you are not interested in learning the terminal commands then skip to the nex
 	* `cat file1` - Shows content of file1
 	* `cat file1 file2 file3 "file 4"` - Shows content of all files.
 * ### 9:`cp` - Copies files and directories.
-	* `cp source_file destination_file` - Creates a copy of the source_file. 
+	* `cp source_file destination_file` - Copies the contents of the source_file to destination_file. If destination_file does not already exist then a destination_file will be created. If destination_file already exists then file will be overwritten. Old content or data will be removed and data of the source_file will show.
+	* `cp -a source_folder destination_folder` - Copies all the contents of the source_folder to destination_folder.
+* ### 10:`chmod` - Changes permissions of files and folders.
+	* `chmod 0 file_name folder_name` - No one can access these files and folders.
+	* `chmod 777 file_name folder_name` - If files or folders previously had permission denied, then gives everyone access and permission to read, write, and execute files and folders.
+	
