@@ -29,5 +29,7 @@ If you are not interested in learning the terminal commands then skip to the nex
 * ### 7:`rm` - Removes files and folders.
 	* `rm file1` - Removes file called file1.
 	* `rm -rf folder1` - Removes a directory called folder1.
-* ### 8:`cat` - Concatenates multiples files and shows contents of files.
-	* 
+* ### 10:`cat` - Concatenates multiples files and shows contents of files.
+	* `cat file1 file2 file3 > file4` - Concatenates contents of file1, file2, file3 into file4. If file4 does not exist then it will be created. But if file4 already has content that content will completely removed.
+	* `cat file1` - Shows content of file1
+	* `cat file1 file2 file3 "file 4"` - Shows content of all files.
