@@ -29,5 +29,5 @@
 	* Removes highlight from words that are currently highlighted.
 * ### 12: <kbd>Esc</kbd> + <kbd>:</kbd> + `24` - Go to line
 	* 24 in the above command is just a hypothetical number. But we would enter the line number that we want to go to.
-* ### 13: <kbd>Esc</kbd> + <kbd>:</kbd> + `setcolorcolumn=24` - Set Margin
+* ### 13: <kbd>Esc</kbd> + <kbd>:</kbd> + `set colorcolumn=24` - Set Margin
 	* Will set margin at 24th character width.
