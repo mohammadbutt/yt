@@ -3,7 +3,7 @@
 * ### 1: <kbd>I</kbd> - Insert Mode.
 	* `-- INSERT --` will appear at the bottom left of the window. Allows the user to enter text. 
 	* One more test.
-* ### 2:<kbd>Esc</kbd>: Escape Mode
+* ### 2:<kbd>Esc</kbd> or <kbd>Ctrl</kbd> + <kbd>c</kbd>: Escape Mode
 	* Allows the user to enter addtional commands to perform further actions.
 * ### 3: <kbd>Esc</kbd> + <kbd>:</kbd> + <kbd>w</kbd> - Saves file
 	* Allows the user to save file. w has to be lowercase.
