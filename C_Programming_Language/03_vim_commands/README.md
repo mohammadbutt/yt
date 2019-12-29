@@ -38,4 +38,4 @@
 	* Type text.
 	* Press <kbd>Esc</kbd> to implement the text in all lines.
 * ### 15: <kbd>Esc</kbd> +  <kbd>:</kbd> + <kbd>%</kbd> + <kbd>s</kbd> + <kbd>/</kbd> source word + <kbd>/</kbd> + destination word + <kbd>/</kbd> + gc - Search and replace
-	* `:%s/search this word/replace with this/gc`
+	* `:%s/source/destination/gc`
