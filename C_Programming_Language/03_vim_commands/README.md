@@ -6,7 +6,7 @@
 	* `ls -l` - Long list format that gives additional information about files and folders. 
 	* `ls -la` or `ls -al` - Long list format that gives additional information about files and folders including hidden
 
-* ### 1: <kbd>I</kbd> : Insert Mode
+* ### 1: <kbd>I</kbd> - Insert Mode
           * `-- INSERT --` will appear at the bottom left of the window. Allows the user to enter text. 
           * One more test.
 * ### 2:`<kbd>Esc</kbd>`: Escape Mode
