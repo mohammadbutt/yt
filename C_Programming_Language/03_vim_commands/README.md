@@ -33,4 +33,6 @@
 	* Will set margin at 24th character width.
 * ### 14: <kbd>Esc</kbd> + <kbd>Ctrl</kbd> + <kbd>v</kbd> - Muliple line selection has a few steps
 	* <kbd>Esc</kbd> + <kbd>Ctrl</kbd> + <kbd>v</kbd> - `-- VISUAL BLOCK` will appear in the left bottom section.
-	* Press <kbd>j</kbd> or <kbd> :arrow_down:</kbd>
+	* Press <kbd>j</kbd> or <kbd> :arrow_down_small:</kbd> as many times as many lines you want to make the changes on.
+	* Press <kbd>Shift</kbd> + <kbd>i</kbd> or <kbd>I</kbd> - `-- INSERT --` will appear in the left bottom screen.
+	* Type text. When done press <kbd>Esc</kbd>.
