@@ -27,5 +27,6 @@
 	* <kbd>Esc</kbd> + <kbd>N</kbd> - Uppercase N searches the previous occurrence.
 * ### 11: <kbd>Esc</kbd> + <kbd>:</kbd> + <kbd>noh</kbd> - No highlight
 	* Removes highlight from words that are currently highlighted.
-* ### 12: <kbd>Esc</kbd> + <kbd>:</kbd> + <kbd>5</kbd> - Go to line
-	* 5 in the above command is just hyptothetical number. But we would enter the line number that we want to go to.
+* ### 12: <kbd>Esc</kbd> + <kbd>:</kbd> + <kbd>24</kbd> - Go to line
+	* 24 in the above command is just a hypothetical number. But we would enter the line number that we want to go to.
+* ### 13: <kbd>Esc</kbd> + <kbd>:</kbd> + <kbd>setcolorcolumn=24</kbd>
