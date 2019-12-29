@@ -10,4 +10,8 @@
 * ### 4: <kbd>Esc</kbd> + <kbd>:</kbd> + <kbd>q</kbd> - Closes file
 	* Allows the user to exit out of file. q has to be lowercase.
 	* <kbd>Esc</kbd> + <kbd>:</kbd> + <kbd>w</kbd> + <kbd>q</kbd> - Allows the user to save the file and then exit out of it.
+* ### 5: <kbd>y</kbd> - Yank
+	* Copies text. Y can be upper or lowercase.
+* ### 6: <kbd>x</kbd> - Cut
+	* Cuts text. X can be upper or lowercase.
 
