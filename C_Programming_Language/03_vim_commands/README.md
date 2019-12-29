@@ -18,5 +18,11 @@
 	* Pastes text.
 * ### 8: <kbd>Esc</kbd> + <kbd>d</kbd> - Delete
 	* Pressing lower case d twice will delete the current line of the cursor.
-	* Presssing Uppercase D just once will delete text that comes after the cursor for that line. 
-
+	* Presssing Uppercase D just once will delete text that comes after the cursor for that line.
+* ### 9: <kbd>Esc</kbd> + <kbd>u</kbd> - Undo
+	* Lowercase u. Undoes the changes. Just like popular text softwares like microsoft word, google docs and so on.
+* ### 10: <kbd>Esc</kbd> + <kbd>/</kbd> + "word to search" - Search / Find:
+	* Finds and searches a word or sentence.
+	* <kbd>Esc</kbd> + <kbd>n</kbd> - Lowercase n searches the next occurrence.
+	* <kbd>Esc</kbd> + <kbd>N</kbd> - Uppercase N searches the previous occurrence.
+* ###
