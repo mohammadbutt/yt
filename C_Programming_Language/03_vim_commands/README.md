@@ -25,7 +25,7 @@
 	* Finds and searches a word or sentence.
 	* <kbd>Esc</kbd> + <kbd>n</kbd> - Lowercase n searches the next occurrence.
 	* <kbd>Esc</kbd> + <kbd>N</kbd> - Uppercase N searches the previous occurrence.
-* ### 11: <kbd>Esc</kbd> + <kbd>:</kbd> + <kbd>noh</kbd> - No highlight
+* ### 11: <kbd>Esc</kbd> + <kbd>:</kbd> + `noh` - No highlight
 	* Removes highlight from words that are currently highlighted.
 * ### 12: <kbd>Esc</kbd> + <kbd>:</kbd> + <kbd>24</kbd> - Go to line
 	* 24 in the above command is just a hypothetical number. But we would enter the line number that we want to go to.
