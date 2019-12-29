@@ -10,8 +10,13 @@
 * ### 4: <kbd>Esc</kbd> + <kbd>:</kbd> + <kbd>q</kbd> - Closes file
 	* Allows the user to exit out of file. q has to be lowercase.
 	* <kbd>Esc</kbd> + <kbd>:</kbd> + <kbd>w</kbd> + <kbd>q</kbd> - Allows the user to save the file and then exit out of it.
-* ### 5: <kbd>y</kbd> - Yank
+* ### 5: <kbd>Esc</kbd> + <kbd>y</kbd> - Yank
 	* Copies text. Y can be upper or lowercase.
-* ### 6: <kbd>x</kbd> - Cut
+* ### 6: <kbd>Esc</kbd> + <kbd>x</kbd> - Cut
 	* Cuts text. X can be upper or lowercase.
+* ### 7: <kbd>Esc</kbd> + <kbd>p</kbd> - Paste
+	* Pastes text.
+* ### 8: <kbd>Esc</kbd> + <kbd>d</kbd> - Delete
+	* Pressing lower case d twice will delete the current line of the cursor.
+	* Presssing Uppercase D just once will delete text that comes after the cursor for that line. 
 
