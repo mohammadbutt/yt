@@ -6,6 +6,7 @@
 	* `ls -l` - Long list format that gives additional information about files and folders. 
 	* `ls -la` or `ls -al` - Long list format that gives additional information about files and folders including hidden files and folders. 
 	* `ls -G` - Colorizes files, folder, and executables in different colors.
+	* `ls *` - Shows all files.
 * ### 2:`mkdir` - Stands for make directory.
 	* `mkdir empty_folder1` - Creates a directory called empty_folder1.
 	* `mkdir empty_folder2 empty_folder3 empty_folder4` - Creates multiple directories called empty_folder2, empty_folder3 and empty_folder4.
