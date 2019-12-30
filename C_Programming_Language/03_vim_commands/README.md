@@ -27,9 +27,9 @@
 	* <kbd>Esc</kbd> + <kbd>N</kbd> - Uppercase N searches the previous occurrence.
 * ### 11: <kbd>Esc</kbd> + <kbd>:</kbd> + `noh` - No highlight
 	* Removes highlight from words that are currently highlighted.
-* ### 12: <kbd>Esc</kbd> + <kbd>:</kbd> + `24` - Go to line
+* ### 12: <kbd>Esc</kbd> + `:24` - Go to line
 	* 24 in the above command is just a hypothetical number. But we would enter the line number that we want to go to.
-* ### 13: <kbd>Esc</kbd> + <kbd>:</kbd> + `set colorcolumn=24` - Set Margin
+* ### 13: <kbd>Esc</kbd> + `:set colorcolumn=24` - Set Margin
 	* Will set margin at 24th character width.
 * ### 14: <kbd>Esc</kbd> + <kbd>Ctrl</kbd> + <kbd>v</kbd> - Muliple line selection
 	* <kbd>Esc</kbd> + <kbd>Ctrl</kbd> + <kbd>v</kbd> - `-- VISUAL BLOCK` will appear in the left bottom section.
@@ -37,7 +37,7 @@
 	* Press <kbd>Shift</kbd> + <kbd>i</kbd> or <kbd>I</kbd> - `-- INSERT --` will appear in the left bottom screen.
 	* Type text.
 	* Press <kbd>Esc</kbd> to implement the text in all lines.
-* ### 15: <kbd>Esc</kbd> +  <kbd>:</kbd> + <kbd>%</kbd> + <kbd>s</kbd> + <kbd>/</kbd> source word + <kbd>/</kbd> + destination word + <kbd>/</kbd> + gc - Search and replace
+* ### 15: <kbd>Esc</kbd> + `:%s/source word/destination word/gc` - Search and replace
 	* <kbd>Esc</kbd> + `:%s/source/destination/gc` - Searches and asks for confirmation for each replacement.
 	* <kbd>Esc</kbd> + `:%s/source/destination` - Searches and replaces everything. Does not ask for confirmation.
 	* <kbd>Esc</kbd> + `:7,10s/source/destination/gc` - Searches and replaces between lines 7 and 10. Asks for confirmation for each change.
