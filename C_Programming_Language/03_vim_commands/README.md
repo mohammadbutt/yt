@@ -25,14 +25,13 @@
 * ### 11: <kbd>Esc</kbd> + <kbd>u</kbd> - Undo
 	* Lowercase u. Undoes the changes. Just like popular text softwares like microsoft word, google docs and so on.
 * ### 12: <kbd>Esc</kbd> + `:set number` - Enables line number
-* ### 13: <kbd>Esc</kbd> + `:set hlsearch` - Enables search highlight
-* ### 14: <kbd>Esc</kbd> + `:noh` - Disable search highlight
-	* Removes highlight from words that are currently highlighted.
-* ### 15: <kbd>Esc</kbd> + <kbd>/</kbd> + "word to search" - Search / Find:
+* ### 13: <kbd>Esc</kbd> + <kbd>/</kbd> + "word to search" - Search / Find:
 	* Finds and searches a word or sentence.
 	* <kbd>Esc</kbd> + <kbd>n</kbd> - Lowercase n searches the next occurrence.
 	* <kbd>Esc</kbd> + <kbd>N</kbd> - Uppercase N searches the previous occurrence.
-
+* ### 14: <kbd>Esc</kbd> + `:set hlsearch` - Enables search highlight
+* ### 15: <kbd>Esc</kbd> + `:noh` - Disable search highlight
+	* Removes highlight from words that are currently highlighted.
 * ### 16: <kbd>Esc</kbd> + `:24` - Go to line
 	* 24 in the above command is just a hypothetical number. But we would enter the line number that we want to go to.
 * ### 17: <kbd>Esc</kbd> + `:set colorcolumn=24` - Set Margin
