@@ -31,6 +31,8 @@
 	* 24 in the above command is just a hypothetical number. But we would enter the line number that we want to go to.
 * ### 13: <kbd>Esc</kbd> + `:set colorcolumn=24` - Set Margin
 	* Will set margin at 24th character width.
+* ### 14: <kbd>Ctrk</kbd> + <kbd>n</kbd> - Word Completion.
+	* Gives autofill suggestions.
 * ### 14: <kbd>Esc</kbd> + <kbd>Ctrl</kbd> + <kbd>v</kbd> - Muliple line selection
 	* <kbd>Esc</kbd> + <kbd>Ctrl</kbd> + <kbd>v</kbd> - `-- VISUAL BLOCK` will appear in the left bottom section.
 	* Press <kbd>j</kbd> or <kbd> :arrow_down_small:</kbd> as many times as many lines you want to make the changes on.
