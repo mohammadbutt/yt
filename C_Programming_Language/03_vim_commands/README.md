@@ -40,4 +40,6 @@
 * ### 15: <kbd>Esc</kbd> +  <kbd>:</kbd> + <kbd>%</kbd> + <kbd>s</kbd> + <kbd>/</kbd> source word + <kbd>/</kbd> + destination word + <kbd>/</kbd> + gc - Search and replace
 	* <kbd>Esc</kbd> + `:%s/source/destination/gc` - Searches and asks for confirmation for each replacement.
 	* <kbd>Esc</kbd> + `:%s/source/destination` - Searches and replaces everything. Does not ask for confirmation.
+	* <kbd>Esc</kbd> + `:7,10s/source/destination/gc` - Searches and replaces between lines 7 and 10. Asks for confirmation for each change.
+
 	
