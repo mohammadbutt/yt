@@ -19,4 +19,7 @@
 18. Ctrl + n - Word Completion
 19. Esc + Ctrl + v - Multiple line selection
 20. Esc + :%s/vim/destination/gc - Search and replace
-20. Esc + :25,30s/destination/vim/gc - Search and replace within line range
+20. Esc + :25,30s/destination/vim/gc - Search and replace within line range.
+21. Esc + :set autoindent - Autoindent after you initialize variables or type, if and while statements.
+22. Esc + :set cindent - Auto indents after curly brackets.
+23. Esc + shiftwidth=4 - Sets indentation width at 4 character space instead of 8.
