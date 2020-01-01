@@ -23,5 +23,5 @@
 21. Esc + :set autoindent ------------ Autoindent after you initialize variables or type, if and while statements.
 22. Esc + :set cindent --------------- Auto indents after curly brackets.
 23. Esc + shiftwidth=4 --------------- Sets indentation width at 4 character space instead of 8.
-24. Esc + setsofttabstop=4 ----------- If shiftwidth is turned on then backspace removes 1 space instead of tab. setsofttabstop
-                                       will remove the full tab with one backspace.
+24. Esc + setsofttabstop=4 ----------- If shiftwidth is turned on then backspace removes 1 space instead of tab.
+                                       setsofttabstop will remove the full tab with one backspace.
