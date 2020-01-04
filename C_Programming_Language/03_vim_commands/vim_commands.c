@@ -25,3 +25,14 @@
 23. Esc + :set shiftwidth=4 ---------- Sets indentation width at 4 character space instead of 8.
 24. Esc + :set softtabstop=4 --------- If shiftwidth is turned on then backspace removes 1 space instead of tab.
                                        setsofttabstop will remove the full tab with one backspace.
+/*
+Below are my settings for .vimrc:
+:syntax on
+:set mouse=a
+:set visualbell t_vb=
+:set hlsearch
+:set autoindent
+:set cindent
+:set shiftwidth=4
+:set softtabstop=4
+*/
